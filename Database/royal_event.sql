@@ -43,7 +43,7 @@ CREATE TABLE `tbladmin` (
 
 
 INSERT INTO `tbladmin` (`ID`, `Staffid`, `AdminName`, `UserName`, `FirstName`, `LastName`, `MobileNumber`, `Email`, `Status`, `Photo`, `Password`, `AdminRegdate`) VALUES
-(2, 'U002', 'Admin', 'kokz@gmail.com', 'Kokz', 'Yobmot', 942397933, 'kokz@gmail.com', 1, 'pro4.jpg', '21232f297a57a5a743894a0e4a801fc3', '2022-07-21 10:18:39'),
+(2, 'U002', 'Admin', 'kokz@gmail.com', 'Kokz', 'Yobmot', 942397933, 'kokz@gmail.com', 1, 'pro4.jpg', '21232f297a57a5a743894a0e4a801fc3', '2022-07-21 10:18:39');
 
 
 
